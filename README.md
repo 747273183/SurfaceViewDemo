@@ -8,9 +8,9 @@
 
 1. SurfaceView与view的区别
 
-    . 不使用onDraw
-    . 非UI线程绘制
-    . 独立的Surface
+   - 不使用onDraw
+   -  非UI线程绘制 
+   -  独立的Surface
 
 2. SurfaceView的具体使用场景
 
