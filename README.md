@@ -2,7 +2,7 @@
 
 ![SurfaceView案例](/readme_img/a0.png)
 
-![SurfaceView案例](/readme_img/a1.png)
+![SurfaceView案例](/readme_img/a1.gif)
 
 
 ## 课程介绍
