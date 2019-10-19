@@ -2,8 +2,9 @@
 
 ![SurfaceView案例](/readme_img/a0.png)
 
-![SurfaceView案例](/readme_img/a1.gif)
+![画圆](/readme_img/a1.gif)
 
+![像素鸟](/readme_img/a2.gif)
 
 ## 课程介绍
 
