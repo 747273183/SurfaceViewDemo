@@ -2,6 +2,9 @@
 
 ![SurfaceView案例](/readme_img/a0.png)
 
+![SurfaceView案例](/readme_img/a1.png)
+
+
 ## 课程介绍
 
     在Android系统中，有一种特殊的视图：SurfaceView，它拥有独立的绘图表面，游戏等应用离不开它的身影。
